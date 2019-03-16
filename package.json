@@ -1,0 +1,15 @@
+{
+  "name": "weather",
+  "version": "1.0.0",
+  "description": "An node.js function which periodically checks the weather and notifies you",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.419.0",
+    "request": "^2.88.0"
+  }
+}
